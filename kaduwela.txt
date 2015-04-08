@@ -1,0 +1,11 @@
+git clone – initialized/downloaded repository
+git add – adds files to git staging area; can have multiple files in 
+staging area at one time
+git commit – records everything in staging area as a single change. When 
+a change is committed it stores what was changed, when it was changed, 
+and why it was changed.
+git push – pushing local changes to remote repository
+git pull – pull updates from remote repository to local repository
+Remote vs local repository - The local repository is on futuresystems 
+while the remote is on the Github server
+
